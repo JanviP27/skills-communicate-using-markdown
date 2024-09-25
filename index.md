@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, Github is an interesting userface for beginners";
 ```
+- [x] Make sure to take running notes while learning github process
+- [x] Recheck syntax
+- [ ] Revise notes
