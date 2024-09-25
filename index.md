@@ -1,1 +1,1 @@
-# My journey of using Github fot the first time
+# My journey of using Github for the first time
